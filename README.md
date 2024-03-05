@@ -14,26 +14,25 @@
 ---
 
 <h3>😶‍🌫️ About Me:</h3>
-<div style="flex: 1;">
-<p>I'm currently member of 42Network in 19 Brussels | I've been staff for 9 month (Stitch) 🐸</p>
-    <a href="https://github.com/nuageuw">
-        <img src="https://badge.mediaplus.ma/darkblue/aburnott?1337Badge=off&UM6P=off" alt="If you see this, it timeout again :(" />
-    </a>
-</div>
-<div align="right">
-    <p>Currently listening:</p>
-    <a href="https://open.spotify.com/user/kcwskp9c5halk1e7zdqwy81fx">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=kcwskp9c5halk1e7zdqwy81fx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=0088c2&bar_color_cover=true" alt="Come check my Spotify :)">
-    </a>
-</div>
-<div>
+<p>
+    <p>I'm currently member of 42Network in 19 Brussels | I've been staff for 9 month (Stitch) 🐸</p>
+        <a href="https://github.com/nuageuw">
+            <img align="left" src="https://badge.mediaplus.ma/darkblue/aburnott?1337Badge=off&UM6P=off" alt="If you see this, it timeout again :(" />
+        </a><br>
+        <p align="center"><b>Currently listening:</b></p>
+        <a href="https://open.spotify.com/user/kcwskp9c5halk1e7zdqwy81fx">
+            <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=kcwskp9c5halk1e7zdqwy81fx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=0088c2&bar_color_cover=true" alt="Come check my Spotify :)">
+        </a>
+</p>
+<br><br><br><br><br><br>
+<p align="left">
 
 - 🧠 Self-taught learner
 - 🎵 Music enjoyer
 - 🧑‍💻 I'm currently launching my self-employed company check here: **soon**
 - 📝 Always trying to create my own tools and learn new things
 - 👀 If it can be automated, I will do it
-</div>
+</p>
 
 <h2 align="left">💻 Languages and Tools:</h2>
 <br>
