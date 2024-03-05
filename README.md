@@ -23,29 +23,29 @@
         </a>
 </p>
 <br><br><br><br><br><br><br>
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        <ul>
-            <li>🧠 Self-taught learner</li>
-            <li>🎵 Music enjoyer</li>
-            <li>🧑‍💻 I'm currently launching my self-employed company check here: <b>soon</b></li>
-            <li>📝 Always trying to create my own tools and learn new things</li>
-            <li>👀 If it can be automated, I will do it</li>
-        </ul>
-    </div>
-    <div style="flex: 1; text-align: center;">
+<div>
+  <div style="float: left; width: 50%;">
+    <ul>
+      <li>🧠 Self-taught learner</li>
+      <li>🎵 Music enjoyer</li>
+      <li>🧑‍💻 I'm currently launching my self-employed company check here: <b>soon</b></li>
+      <li>📝 Always trying to create my own tools and learn new things</li>
+      <li>👀 If it can be automated, I will do it</li>
+    </ul>
+  </div>
+  <div style="float: right; width: 50%; text-align: center;">
     <p><b>Contact Me:</b></p>
-        <a href="https://discordapp.com/users/1007577488467185674">
-            <img src="https://skillicons.dev/icons?i=discord" alt="nuageux."/>
-        </a>
-        <a href="www.linkedin.com/in/alexis-burnotte">
-            <img src="https://skillicons.dev/icons?i=linkedin" alt="Alexis Burnotte"/>
-        </a>
-        <a href="mailto:aburnott@student.s19.be">
-            <img src="https://skillicons.dev/icons?i=gmail" alt="Temporary Mail"/>
-        </a>
-    </div>
-
+    <a href="https://discordapp.com/users/1007577488467185674">
+      <img src="https://skillicons.dev/icons?i=discord" alt="nuageux."/>
+    </a>
+    <a href="www.linkedin.com/in/alexis-burnotte">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="Alexis Burnotte"/>
+    </a>
+    <a href="mailto:aburnott@student.s19.be">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Temporary Mail"/>
+    </a>
+  </div>
+  <div style="clear: both;"></div>
 </div>
 
 <h2 align="left">💻 Languages and Tools:</h2>
