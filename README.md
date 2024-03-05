@@ -1,8 +1,6 @@
-<h1>WORK IN PROGRESS</h1>
 <h1 align="center">👋 Hey there , I'm Nuageux ☁️</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nuageuw&label=Welcomed%20Clouds&color=0e75b6&style=flat&abbreviated=true" alt="nuageuw" /> </p>
 
-<!-- <img src=https://i.pinimg.com/originals/7e/3f/48/7e3f4890e966db2767510501be4fbb92.gif width="800" heigh="400"><img> -->
 <div align="center">
 
 ![Clouds](https://github.com/nuageuw/nuageuw/blob/main/assets/clouds.gif)
@@ -52,8 +50,27 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nuageuw&show_icons=true&locale=en&theme=tokyonight&line_height=20" alt="nuageuw" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuageuw&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nuageuw" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuageuw&theme=tokyonight" alt="nuageuw's GitHub Contribution"/>
 </div>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2 align="left">💬 Connect with me:</h2>
+<br>
+<div align="center">
+<a href="https://discordapp.com/users/1007577488467185674">
+    <img src="https://skillicons.dev/icons?i=discord" alt="nuageux."/>
+</a>
+<a href="www.linkedin.com/in/alexis-burnotte">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Alexis Burnotte"/>
+</a>
+<a href="mailto:aburnott@student.s19.be">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Temp Mail"/>
+</a>
+</div>
+<br>
+<br>
+
+---
+
+
+<p align="right"><i>Made with ❤️ by Nuageux</i></p>
