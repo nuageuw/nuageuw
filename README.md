@@ -13,10 +13,9 @@
 <h3 align="center">☁️ A dev who love code things, because it's cool. ☁️</h3>
 <!-- Contact badges -->
 <div align="center">
-    <a href="https://discordapp.com/users/1007577488467185674" target="_blank"><img src="https://img.shields.io/badge/
-    Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/alexis-burnotte" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:aburnott@student.s19.be"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://discordapp.com/users/1007577488467185674" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+    <a href="https://linkedin.com/in/alexis-burnotte" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+    <a href = "mailto:aburnott@student.s19.be"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
 </div>
 <!-- Separator -->
 
