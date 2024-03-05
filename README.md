@@ -42,7 +42,7 @@
     <p align="left">
         <li> 🧠 Self-taught learner </li>
         <li> 🎵 Music enjoyer </li>
-        <li> 🧑‍💻 I'm currently launching my self-employed company check here: **soon** </li>
+        <li> 🧑‍💻 I'm currently launching my self-employed company check here: <b>soon</b> </li>
         <li> 📝 Always trying to create my own tools and learn new things </li>
         <li> 👀 If it can be automated, I will do it </li>
     </p>
