@@ -33,7 +33,7 @@
         <p align="center"><b>Currently listening:</b></p>
         <!-- Spotifyy live integration -->
         <a href="https://open.spotify.com/user/kcwskp9c5halk1e7zdqwy81fx">
-            <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=kcwskp9c5halk1e7zdqwy81fx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=0088c2&bar_color_cover=true" alt="Come check my Spotify :)">
+            <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kcwskp9c5halk1e7zdqwy81fx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Come check my Spotify :)">
         </a>
 </p>
 <br><br><br><br><br><br>
