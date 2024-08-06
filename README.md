@@ -10,7 +10,7 @@
 
 </div>
 <!-- Sentence because why not -->
-<h3 align="center">☁️ A dev who love code things, because it's cool. ☁️</h3>
+<h3 align="center">☁️ A dev who love code things, because... Because☁️</h3>
 <!-- Contact badges -->
 <div align="center">
     <a href="https://discordapp.com/users/1007577488467185674" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
@@ -28,7 +28,7 @@
     <p>I'm currently member of 42Network in 19 Brussels | I've been staff for 9 month (Stitch) 🐸</p>
     <!-- 42 Netwrok badges integration -->
         <a href="https://github.com/nuageuw">
-            <img align="left" src="https://badge.mediaplus.ma/darkblue/aburnott?1337Badge=off&UM6P=off" alt="If you see this, it timeout again :(" />
+            <img align="left" src="https://badge.mediaplus.ma/darkblue/aburnott?1337Badge=off&UM6P=off" alt="You see this text ? It's broken so :(" />
         </a><br>
         <p align="center"><b>Currently listening:</b></p>
         <!-- Spotifyy live integration -->
