@@ -25,7 +25,7 @@
 <h3>😶‍🌫️ About Me:</h3>
 <!-- <p> tag for a weird arrangement to get the two components next to each other (don't ask idk, it's github's behavior) -->
 <p>
-    <p>I'm currently member of 42Network in 19 Brussels | I've been staff for 9 month (Stitch) 🐸</p>
+    <p>I'm currently staff for 42 Network in 19 Brussels 😇</p> <!-- | I've been staff for 9 month (Stitch) 🐸 -->
     <!-- 42 Netwrok badges integration -->
         <a href="https://github.com/nuageuw">
             <img align="left" src="https://badge.mediaplus.ma/darkblue/aburnott?1337Badge=off&UM6P=off" alt="You see this text ? It's broken so :(" />
