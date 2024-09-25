@@ -80,7 +80,6 @@
 <!-- My Repo integrations -->
 
 [![nuageuw](https://github-readme-stats.vercel.app/api/pin/?username=nuageuw&repo=nuageuw&line_height=20&border_color=050f2c&theme=algolia)](https://github.com/nuageuw/nuageuw)
-[![Cursus42](https://github-readme-stats.vercel.app/api/pin/?username=nuageuw&repo=cursus42&line_height=20&border_color=050f2c&theme=algolia)](https://github.com/nuageuw/cursus42)
 [![TinyTaskbar](https://github-readme-stats.vercel.app/api/pin/?username=nuageuw&repo=TinyTaskbar&line_height=20&border_color=050f2c&theme=algolia)](https://github.com/nuageuw/TinyTaskbar)
 
 </div>
