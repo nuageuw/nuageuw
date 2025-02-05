@@ -82,6 +82,8 @@
 [![nuageuw](https://github-readme-stats.vercel.app/api/pin/?username=nuageuw&repo=nuageuw&line_height=20&border_color=050f2c&theme=algolia)](https://github.com/nuageuw/nuageuw)
 [![TinyTaskbar](https://github-readme-stats.vercel.app/api/pin/?username=nuageuw&repo=TinyTaskbar&line_height=20&border_color=050f2c&theme=algolia)](https://github.com/nuageuw/TinyTaskbar)
 
+You are a recrutor and you wanna see my 42Cursus projects? 👀 Come ask me for the repo links!
+
 </div>
 <!-- All repo buttons -->
 <p align="center">
